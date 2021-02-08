@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><meta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><project id="6NbHv8VOtiE" courseid="6n472RDopqE_course_id" thumburl="story_content/thumbnail.jpg" title="GPON Fiber E-Learning - v.5.2.6s" datepublished="2021-02-08T07:06:46" version="1.0.0.0" flashdata="story_content/data.swf" html5data="mobile/data.json" mobiledata="mobile/data.gz" enabledownload="false" duration="About 204 minutes" totalaudio="2513344" totalvideo="281789"><description /><keywords /><slidemeta moniker="slide" monikerplural="slides" viewslides="150" slidecountdescription="150 slides" /><author name="Warren Trinidad" email="" website="" /><application name="Articulate Storyline" version="3.10.22406.0" xmlversion="4.0" /></project></meta>
+<preference name="loadUrlTimeoutValue" value="700000" />
+<allow-navigation href="*" />
+<content original-src="index.html" />
